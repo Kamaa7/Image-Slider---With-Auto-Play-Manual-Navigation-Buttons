@@ -1,0 +1,2 @@
+# Image-Slider---With-Auto-Play-Manual-Navigation-Buttons
+In this project, we will be going to set a design an Image Slider(slideshow/carousel) with Both Auto-play and Manual Navigation using CSS, HTML, and Javascript.  Manual navigation is with buttons and you can navigate to any slide using these buttons.  Autoplay navigation is automatically changing slides due to a timer set by using Javascript.
